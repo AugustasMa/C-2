@@ -1,0 +1,14 @@
+Vykdant programą su klase:
+
+100000 studentų
+Duomenu isvedimas i du failus su vektorium uztruko: 1.54304 s
+
+1000000 studentų
+Duomenu isvedimas i du failus su vektorium uztruko: 15.8845 s
+
+
+100000 studentų
+Duomenu isvedimas i du failus su listu uztruko: 0.912814 s
+
+1000000 studentų
+Duomenu isvedimas i du failus su listu uztruko2: 9.03488 s
